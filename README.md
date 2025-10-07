@@ -59,6 +59,10 @@ aws configure --profile offencloudsive
 
 ### CMD offencloudsive
 
+```bash
+cd offencloudsive
+```
+
 - start
 ```bash
 python3 offencloudsive.py --scenario scenario_name --profile offencloudsive
