@@ -53,6 +53,7 @@ git clone https://github.com/Pandyo/offencloudsive
 - aws confingure
 
 Create an Access key in AWS and run the command below to register the Access key, Secret key, and region.
+If you do not set the region, the default region value at runtime is ap-northeast-2 (Seoul).
 ```bash
 aws configure --profile offencloudsive
 ```
